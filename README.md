@@ -45,8 +45,14 @@ https://www.glassdoor.com/index.htm
 
 ### Implementation and Tutorials:
 
+Tensor Flow Playground:
+http://playground.tensorflow.org
+
+ConvNetJS: Deep learning in your web browser (Andrej Karpathy):
+http://cs.stanford.edu/people/karpathy/convnetjs/
+
 Scikit-Learn:
-Jake Vanderplas PyCon 2015 Sckit-Learn Tutorial:
+Jake Vanderplas PyCon 2015 Sckit-Learn Tutorial
 https://www.youtube.com/watch?v=L7R4HUQ-eQ0
 
 Deep Learning:
