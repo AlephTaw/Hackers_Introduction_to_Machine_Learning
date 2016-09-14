@@ -40,11 +40,13 @@ http://www.datatau.com/
 Hacker News:
 https://news.ycombinator.com/
 
-Glass Door (Not to be confused with 'Glass Ceiling,' which is another not unrelated problem):
+Glass Door (Not to be confused with 'Glass Ceiling'):
 https://www.glassdoor.com/index.htm
 
 ### Implementation and Tutorials:
 
+Jake Vanderplas PyCon 2015 Sckit-Learn Tutorial:
+https://www.youtube.com/watch?v=L7R4HUQ-eQ0
 
 ### Blogs and Blog Posts:
 
@@ -52,7 +54,7 @@ Andrej Karpathy:
 Blog
 http://karpathy.github.io/
 
-A Hacker's Guide to Neural Networks:
+A Hacker's Guide to Neural Networks
 http://karpathy.github.io/neuralnets/
 
 ### Some Notable Names in Research:
