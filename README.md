@@ -45,8 +45,13 @@ https://www.glassdoor.com/index.htm
 
 ### Implementation and Tutorials:
 
+Scikit-Learn:
 Jake Vanderplas PyCon 2015 Sckit-Learn Tutorial:
 https://www.youtube.com/watch?v=L7R4HUQ-eQ0
+
+Deep Learning:
+Theano:
+http://deeplearning.net/tutorial/
 
 ### Blogs and Blog Posts:
 
