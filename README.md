@@ -1,8 +1,7 @@
 # Hackers_Introduction_to_Machine_Learning
 A running collection of resources for people who want to get started in machine learning and data science
 
-## Resources:
-### Open Courseware:
+## Open Courseware:
 
 ### Mathematical Foundations:
 #### Linear Algebra
@@ -20,25 +19,25 @@ Harvard Statistics 110: Probability:
 https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 
 #### Deep Learning:
-Andrew Ng Coursera (A good place to start):
+Andrew Ng Coursera (A good place to start):  
 https://www.coursera.org/learn/machine-learning
 
-Originally taught as CS229 on Youtube by Andrw Ng:
+Originally taught as CS229 on Youtube by Andrw Ng:  
 https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599
 
-Nando de Freitas Oxford Lectures on Deep Learning (Introductory):
+Nando de Freitas Oxford Lectures on Deep Learning (Introductory)  
 https://www.youtube.com/watch?v=dV80NAlEins&list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu
 
-#### Neural Networks by Geoffrey Hinton (Formerly Coursera):
+#### Neural Networks by Geoffrey Hinton (Formerly Coursera)
 https://www.youtube.com/watch?v=cbeTc-Urqak&list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9
 
-#### Probabalistic Graphical Models (Daphne Kohler):
+#### Probabalistic Graphical Models (Daphne Kohler)
 https://www.youtube.com/watch?v=WPSQfOkb1M8&list=PL50E6E80E8525B59C
 
-#### Natural Language Processing Stanford (Formerly Coursera):
+#### Natural Language Processing Stanford (Formerly Coursera)
 https://www.youtube.com/watch?v=nfoudtpBV68&list=PL6397E4B26D00A269
 
-#### Statistical Learning Theory:
+#### Statistical Learning Theory
 #### MIT Course 9.520 - Statistical Learning Theory and Applications
 Fall 2015:  
 https://www.youtube.com/playlist?list=PLyGKBDfnk-iDj3FBd0Avr_dLbrU8VG73O
@@ -61,7 +60,7 @@ http://www.datatau.com/
 Hacker News:  
 https://news.ycombinator.com/
 
-Glass Door: 
+Glass Door:  
 https://www.glassdoor.com/index.htm
 
 ### Implementation and Tutorials:
@@ -72,22 +71,20 @@ http://playground.tensorflow.org
 ConvNetJS: Deep learning in your web browser (Andrej Karpathy):  
 http://cs.stanford.edu/people/karpathy/convnetjs/
 
-Scikit-Learn:
+Scikit-Learn:  
 Jake Vanderplas PyCon 2015 Sckit-Learn Tutorial
 https://www.youtube.com/watch?v=L7R4HUQ-eQ0
 
-Deep Learning:
-Theano:
+Deep Learning:  
+Theano:  
 http://deeplearning.net/tutorial/
 
 ### Blogs and Blog Posts:
 
-Andrej Karpathy:
-Blog
-http://karpathy.github.io/
+Andrej Karpathy:  
+Blog: http://karpathy.github.io/
 
-A Hacker's Guide to Neural Networks
-http://karpathy.github.io/neuralnets/
+A Hacker's Guide to Neural Networks: http://karpathy.github.io/neuralnets/
 
 ### Some Notable Names in Research:
 https://www.quora.com/Who-are-some-notable-machine-learning-researchers
