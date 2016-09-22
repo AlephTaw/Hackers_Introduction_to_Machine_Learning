@@ -1,6 +1,20 @@
 # Hackers_Introduction_to_Machine_Learning
 A running collection of resources for people who want to get started in machine learning and data science
 
+## Mathematical Foundations:
+### Linear Algebra
+Kahn Academy Linear Algebra Lectures
+https://www.khanacademy.org/math/linear-algebra
+MIT OCW 18.06 with Gilbert Strang (Linear Algebra)
+https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D
+### Probability and Statistics
+Kahn Academy High School Statistics:
+https://www.khanacademy.org/math/probability#table-of-contents
+MIT OCW 6.041 Probability and Statistics
+https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLQ3khvAsNhargDx0dG1cQXOrA2u3JsFKc
+https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLUl4u3cNGP60A3XMwZ5sep719_nh95qOe
+Harvard Statistics 110: Probability
+https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo
 
 ## Resources:
 ### Open Courseware:
@@ -24,8 +38,15 @@ https://www.youtube.com/watch?v=WPSQfOkb1M8&list=PL50E6E80E8525B59C
 #### Natural Language Processing Stanford (Formerly Coursera):
 https://www.youtube.com/watch?v=nfoudtpBV68&list=PL6397E4B26D00A269
 
-#### Statistical Learning Theory (MIT OCW):
+#### Statistical Learning Theory:
+#### MIT Course 9.520 - Statistical Learning Theory and Applications
+Fall 2015
+https://www.youtube.com/playlist?list=PLyGKBDfnk-iDj3FBd0Avr_dLbrU8VG73O
+Fall 2006
 http://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-520-statistical-learning-theory-and-applications-spring-2006/
+
+More MIT OCW Statistical Learning Theory
+18.465 Spring 2007
 http://ocw.mit.edu/courses/mathematics/18-465-topics-in-statistics-statistical-learning-theory-spring-2007/
 
 
