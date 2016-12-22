@@ -5,12 +5,12 @@ A running collection of resources for people who want to get started in machine 
 
 ### Mathematical Foundations:
 #### Linear Algebra
-Kahn Academy Linear Algebra Lectures:  
+Khan Academy Linear Algebra Lectures:  
 https://www.khanacademy.org/math/linear-algebra
 MIT OCW 18.06 with Gilbert Strang (Linear Algebra):  
 https://www.youtube.com/watch?v=ZK3O402wf1c&list=PL49CF3715CB9EF31D
 #### Probability and Statistics
-Kahn Academy High School Statistics:  
+Khan Academy High School Statistics:  
 https://www.khanacademy.org/math/probability#table-of-contents
 MIT OCW 6.041 Probability and Statistics:  
 https://www.youtube.com/watch?v=j9WZyLZCBzs&list=PLQ3khvAsNhargDx0dG1cQXOrA2u3JsFKc
